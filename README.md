@@ -11,8 +11,10 @@
 ---
 
 ## 📺 As Seen on YouTube
-This project was built live! Watch the full tutorial on how it works:
-**https://youtu.be/sRpcmGFPoj0**
+This project was built live! Watch the full tutorial here:
+[![YouTube](https://img.shields.io/badge/YouTube-Watch%20Now-red?style=for-the-badge&logo=youtube)](https://youtu.be/sRpcmGFPoj0)
+
+**Watch the full video:** [https://youtu.be/sRpcmGFPoj0](https://youtu.be/sRpcmGFPoj0)
 
 ---
 
@@ -37,7 +39,16 @@ This project was built live! Watch the full tutorial on how it works:
 
 ---
 
-## 🛠️ Installation
+## 📦 Requirements & Installation
+
+You need to install the following external Python libraries to run the project:
+
+| Library | Purpose |
+| :--- | :--- |
+| `cryptography` | Handles RSA & AES encryption standards. |
+| `colorama` | Creates the Matrix-style colored terminal interface. |
+
+### 🛠️ Quick Setup
 
 1. **Clone the Repository**
    ```bash
